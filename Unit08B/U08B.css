@@ -1,0 +1,22 @@
+body {
+    align-content:center;
+    background-image:url('https://ianlorimer122.github.io/pictures/menu_background.jpg')
+}
+div.background {
+    background-color: lawngreen;
+    border: 2px solid black;
+}
+div.transbox {
+    margin:30px;
+    background-color: lightblue;
+    border:1px solid black;
+    opacity:0.8;
+}
+div.transbox p {
+    font-weight:bold;
+    color:#000000;
+}
+header {
+    text-align: center;
+    margin-top:20px;
+}
